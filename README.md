@@ -1,6 +1,7 @@
 
 # YuklarApp
 App for truck drivers to get orders to deliver good  and get informations about order and owner ,
+This app stopped working ,cause backend server of this app was deleted .overall project was stopped ,that's why this app not fully developed for release
 
 ![yuklar_login](https://user-images.githubusercontent.com/71814235/126684596-abfa93ba-5d4e-431d-a20e-acafab681410.jpg)
 
